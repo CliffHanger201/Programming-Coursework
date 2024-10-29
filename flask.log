@@ -1,0 +1,3466 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:07] "GET / HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:08] "GET /attack?x=2&y=2 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:08] "GET /attack?x=0&y=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:08] "[35m[1mGET /attack?x=0&y=1 HTTP/1.1[0m" 500 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:09] "GET /attack?x=2&y=1 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:09] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:10] "GET /attack?x=3&y=2 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:10] "GET /attack?x=3&y=3 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:36:10] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:28] "GET / HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:28] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:29] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:29] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:30] "GET /attack?x=3&y=2 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:30] "GET /attack?x=5&y=4 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:30] "GET /attack?x=5&y=1 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:31] "GET /attack?x=5&y=3 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:31] "GET /attack?x=5&y=2 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:31] "GET /attack?x=5&y=5 HTTP/1.1" 200 -
+INFO:root:Coordinates have been added to players hitlog
+INFO:root:Ai coordinates have been added to the Ai hitlog
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 18:39:32] "GET /attack?x=5&y=6 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:00:40] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:00:41] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:00:42] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:00:42] "GET /attack?x=2&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:00:42] "GET /attack?x=4&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:00:43] "GET /attack?x=5&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:00:43] "GET /attack?x=4&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:28] "GET /attack?x=3&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:29] "GET /attack?x=5&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:30] "GET /attack?x=5&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:33] "GET /attack?x=8&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:34] "GET /attack?x=8&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:34] "GET /attack?x=6&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:35] "GET /attack?x=7&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:38] "[35m[1mGET /attack?x=3&y=5 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:39] "GET /attack?x=2&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:01:39] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:03:41] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:03:51] "GET /attack?x=4&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:03:52] "GET /attack?x=5&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:03:52] "GET /attack?x=7&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:03:54] "GET /attack?x=7&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:03:55] "GET /attack?x=7&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:03:55] "GET /attack?x=6&y=7 HTTP/1.1" 200 -
+INFO:root:Rendering placement template...
+INFO:root:SUCCESS! Placement template has been rendered
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:04:04] "GET /placement HTTP/1.1" 200 -
+INFO:root:Storing data into placement.json file
+INFO:root:SUCCESS! Data stored into placement.json file
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:04:18] "POST /placement HTTP/1.1" 200 -
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 19:04:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Rendering placement template...
+INFO:root:SUCCESS! Placement template has been rendered
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 20:42:17] "GET /placement HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:19] "GET / HTTP/1.1" 200 -
+INFO:root:Rendering placement template...
+INFO:root:SUCCESS! Placement template has been rendered
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:27] "GET /placement HTTP/1.1" 200 -
+INFO:root:Storing data into placement.json file
+INFO:root:SUCCESS! Data stored into placement.json file
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:34] "POST /placement HTTP/1.1" 200 -
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:35] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:36] "GET /attack?x=2&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:37] "GET /attack?x=4&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:38] "GET /attack?x=4&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:38] "GET /attack?x=6&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:38] "GET /attack?x=4&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:39] "GET /attack?x=6&y=5 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:47] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:49] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:50] "GET /attack?x=2&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:50] "GET /attack?x=4&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:50] "GET /attack?x=4&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:51] "GET /attack?x=5&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:51] "[35m[1mGET /attack?x=4&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:51] "GET /attack?x=4&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:51] "GET /attack?x=4&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:52] "GET /attack?x=5&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:52] "GET /attack?x=4&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:52] "GET /attack?x=6&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:53] "GET /attack?x=7&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:54] "GET /attack?x=5&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:54] "GET /attack?x=9&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:54] "GET /attack?x=8&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:55] "GET /attack?x=5&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:56] "GET /attack?x=3&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:56] "GET /attack?x=2&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:57] "GET /attack?x=2&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:57] "GET /attack?x=1&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:58] "GET /attack?x=0&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:58] "GET /attack?x=2&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:22:59] "GET /attack?x=2&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:00] "GET /attack?x=1&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:00] "GET /attack?x=3&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:01] "GET /attack?x=5&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:02] "GET /attack?x=7&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:02] "GET /attack?x=7&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:03] "GET /attack?x=8&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:03] "GET /attack?x=9&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:03] "GET /attack?x=8&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:04] "GET /attack?x=6&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:04] "GET /attack?x=4&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:05] "GET /attack?x=3&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:05] "GET /attack?x=2&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:06] "GET /attack?x=0&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:06] "GET /attack?x=1&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:07] "GET /attack?x=0&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:07] "GET /attack?x=1&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:07] "GET /attack?x=0&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:08] "GET /attack?x=1&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:09] "GET /attack?x=0&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:09] "GET /attack?x=1&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:10] "GET /attack?x=2&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:10] "GET /attack?x=0&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:11] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:12] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:12] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:12] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:13] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:13] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:13] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:13] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:13] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:14] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:14] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:14] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:14] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:15] "[35m[1mGET /attack?x=4&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:15] "[35m[1mGET /attack?x=4&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:15] "[35m[1mGET /attack?x=4&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:15] "[35m[1mGET /attack?x=4&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:15] "[35m[1mGET /attack?x=4&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:16] "[35m[1mGET /attack?x=4&y=4 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:16] "[35m[1mGET /attack?x=4&y=4 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:16] "[35m[1mGET /attack?x=4&y=4 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:16] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:17] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:17] "[35m[1mGET /attack?x=4&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:17] "[35m[1mGET /attack?x=4&y=1 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:17] "[35m[1mGET /attack?x=4&y=1 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:17] "[35m[1mGET /attack?x=4&y=1 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:18] "[35m[1mGET /attack?x=4&y=1 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:23:18] "[35m[1mGET /attack?x=4&y=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:28] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:29] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:30] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:30] "GET /attack?x=2&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:31] "GET /attack?x=3&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:31] "GET /attack?x=4&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:32] "GET /attack?x=5&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:33] "GET /attack?x=6&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:33] "GET /attack?x=6&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:33] "GET /attack?x=7&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:34] "GET /attack?x=7&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:35] "GET /attack?x=8&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:35] "GET /attack?x=8&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:36] "[35m[1mGET /attack?x=8&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:37] "GET /attack?x=7&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:37] "GET /attack?x=7&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:37] "GET /attack?x=4&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:37] "GET /attack?x=5&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:38] "GET /attack?x=6&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:38] "GET /attack?x=6&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:38] "GET /attack?x=7&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:39] "GET /attack?x=7&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:39] "GET /attack?x=8&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:40] "GET /attack?x=9&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:41] "GET /attack?x=7&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:41] "GET /attack?x=5&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:42] "GET /attack?x=3&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:42] "GET /attack?x=2&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:42] "GET /attack?x=1&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:43] "GET /attack?x=2&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:43] "GET /attack?x=2&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:44] "GET /attack?x=1&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:44] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:45] "GET /attack?x=0&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:46] "GET /attack?x=0&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:46] "GET /attack?x=1&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:47] "GET /attack?x=1&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:47] "GET /attack?x=0&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:48] "GET /attack?x=2&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:50] "GET /attack?x=5&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:51] "GET /attack?x=3&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:53] "GET /attack?x=4&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:54] "GET /attack?x=6&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:55] "GET /attack?x=7&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:55] "GET /attack?x=8&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:56] "GET /attack?x=9&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:57] "GET /attack?x=6&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:57] "GET /attack?x=5&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:58] "GET /attack?x=1&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:59] "GET /attack?x=0&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:24:59] "GET /attack?x=2&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:00] "GET /attack?x=3&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:02] "GET /attack?x=4&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:03] "GET /attack?x=0&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:04] "GET /attack?x=0&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:04] "GET /attack?x=0&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:07] "GET /attack?x=0&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:09] "GET /attack?x=5&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:10] "GET /attack?x=8&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:13] "GET /attack?x=9&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:16] "GET /attack?x=4&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:18] "GET /attack?x=4&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:22] "GET /attack?x=8&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:24] "GET /attack?x=9&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:26] "GET /attack?x=3&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:26] "GET /attack?x=3&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+DEBUG:root:Player has won the game
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:25:27] "GET /attack?x=3&y=7 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:17] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:25] "GET /attack?x=2&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:25] "GET /attack?x=2&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:26] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:26] "GET /attack?x=5&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:26] "[35m[1mGET /attack?x=5&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:26] "GET /attack?x=5&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:26] "GET /attack?x=8&y=3 HTTP/1.1" 200 -
+INFO:root:Difficulty has been switched to normal
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:33] "[32mGET /difficulty:normal HTTP/1.1[0m" 302 -
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:33] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:34] "GET /attack?x=3&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:34] "GET /attack?x=4&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:35] "[35m[1mGET /attack?x=3&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:35] "GET /attack?x=5&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:35] "GET /attack?x=4&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:36] "GET /attack?x=5&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:36] "GET /attack?x=6&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:36] "GET /attack?x=6&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:36] "GET /attack?x=8&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:37] "GET /attack?x=8&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:37] "GET /attack?x=7&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:37] "GET /attack?x=8&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:37] "GET /attack?x=4&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:38] "GET /attack?x=3&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:38] "GET /attack?x=3&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:38] "GET /attack?x=2&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:39] "GET /attack?x=1&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:41] "GET /attack?x=1&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:42] "GET /attack?x=1&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:42] "GET /attack?x=2&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:43] "[35m[1mGET /attack?x=1&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:43] "GET /attack?x=1&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:44] "GET /attack?x=0&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:44] "GET /attack?x=1&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:45] "GET /attack?x=0&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:46] "GET /attack?x=0&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:46] "GET /attack?x=0&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:47] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:48] "GET /attack?x=2&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:48] "GET /attack?x=2&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:53] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:54] "GET /attack?x=4&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:54] "GET /attack?x=6&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:55] "GET /attack?x=7&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:55] "GET /attack?x=5&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:56] "[35m[1mGET /attack?x=6&y=1 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:56] "GET /attack?x=6&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:56] "GET /attack?x=6&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:57] "GET /attack?x=6&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:58] "GET /attack?x=3&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:58] "GET /attack?x=4&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:59] "GET /attack?x=4&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:26:59] "GET /attack?x=3&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:00] "GET /attack?x=4&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:00] "GET /attack?x=5&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:01] "GET /attack?x=6&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:01] "GET /attack?x=5&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:02] "GET /attack?x=6&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:02] "GET /attack?x=6&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:02] "GET /attack?x=5&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:03] "GET /attack?x=5&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:03] "GET /attack?x=5&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:04] "GET /attack?x=4&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:05] "GET /attack?x=8&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:05] "GET /attack?x=9&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:05] "GET /attack?x=9&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:06] "GET /attack?x=9&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:06] "GET /attack?x=9&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:07] "GET /attack?x=9&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:07] "GET /attack?x=9&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:07] "GET /attack?x=9&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:08] "GET /attack?x=8&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:08] "GET /attack?x=8&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:09] "GET /attack?x=7&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:10] "GET /attack?x=9&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:10] "GET /attack?x=8&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:12] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:13] "GET /attack?x=2&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:13] "GET /attack?x=7&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:14] "GET /attack?x=8&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:16] "GET /attack?x=7&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:16] "GET /attack?x=8&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:17] "GET /attack?x=7&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:19] "GET /attack?x=2&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:21] "GET /attack?x=1&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:22] "GET /attack?x=0&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:22] "GET /attack?x=0&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:22] "GET /attack?x=1&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:24] "GET /attack?x=0&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:25] "GET /attack?x=1&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:26] "GET /attack?x=0&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+DEBUG:root:Player has won the game
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 22:27:26] "GET /attack?x=2&y=0 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:40:37] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:40:38] "[35m[1mGET /attack?x=7&y=4 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:40:38] "[35m[1mGET /attack?x=6&y=3 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:40:38] "[35m[1mGET /attack?x=6&y=3 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:21] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:21] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:22] "GET /attack?x=2&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:22] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:22] "GET /attack?x=3&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:23] "GET /attack?x=5&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:23] "GET /attack?x=5&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:23] "GET /attack?x=7&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:24] "GET /attack?x=7&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:24] "GET /attack?x=7&y=4 HTTP/1.1" 200 -
+INFO:root:Difficulty has been switched to normal
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:29] "[32mGET /difficulty:normal HTTP/1.1[0m" 302 -
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:29] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:31] "GET /attack?x=1&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:31] "[35m[1mGET /attack?x=1&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:31] "GET /attack?x=3&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:32] "GET /attack?x=3&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:32] "GET /attack?x=3&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:32] "GET /attack?x=4&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:33] "GET /attack?x=5&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:33] "GET /attack?x=6&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:33] "GET /attack?x=5&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:34] "GET /attack?x=4&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:34] "GET /attack?x=6&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:34] "GET /attack?x=6&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:35] "GET /attack?x=7&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:35] "[35m[1mGET /attack?x=7&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:35] "GET /attack?x=8&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:36] "GET /attack?x=9&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:36] "GET /attack?x=8&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:36] "GET /attack?x=8&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:37] "GET /attack?x=8&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:37] "GET /attack?x=7&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2023 23:41:37] "GET /attack?x=8&y=4 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\battleships_ai.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:32] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:33] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:34] "GET /attack?x=3&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:34] "[35m[1mGET /attack?x=3&y=2 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:34] "GET /attack?x=3&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:35] "GET /attack?x=2&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:35] "GET /attack?x=4&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:35] "GET /attack?x=4&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:36] "GET /attack?x=4&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:36] "GET /attack?x=5&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:37] "GET /attack?x=5&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:37] "GET /attack?x=6&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:37] "GET /attack?x=6&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:38] "GET /attack?x=7&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:38] "GET /attack?x=8&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:39] "GET /attack?x=7&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:40] "GET /attack?x=7&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:40] "GET /attack?x=7&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:41] "GET /attack?x=6&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:41] "GET /attack?x=5&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:42] "GET /attack?x=4&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:42] "GET /attack?x=2&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:43] "[35m[1mGET /attack?x=2&y=7 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:43] "GET /attack?x=3&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:44] "GET /attack?x=5&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:44] "GET /attack?x=4&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:44] "GET /attack?x=4&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:46] "GET /attack?x=4&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:12:46] "GET /attack?x=5&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:52] "GET /attack?x=2&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:52] "GET /attack?x=0&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:53] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:53] "GET /attack?x=4&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:55] "GET /attack?x=1&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:55] "GET /attack?x=1&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:55] "GET /attack?x=1&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:56] "GET /attack?x=1&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:56] "GET /attack?x=2&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:57] "GET /attack?x=2&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:57] "GET /attack?x=6&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:58] "GET /attack?x=8&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:13:59] "GET /attack?x=9&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:00] "GET /attack?x=9&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:00] "GET /attack?x=9&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:01] "GET /attack?x=9&y=8 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:01] "GET /attack?x=9&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:02] "GET /attack?x=9&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:03] "GET /attack?x=8&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:04] "GET /attack?x=7&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:04] "GET /attack?x=9&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:05] "GET /attack?x=6&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:05] "GET /attack?x=5&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:06] "GET /attack?x=5&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:06] "GET /attack?x=7&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:07] "GET /attack?x=9&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:08] "GET /attack?x=3&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:08] "GET /attack?x=1&y=0 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:09] "GET /attack?x=1&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:10] "GET /attack?x=0&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:11] "GET /attack?x=1&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:12] "GET /attack?x=3&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:13] "GET /attack?x=3&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:14] "GET /attack?x=0&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:15] "GET /attack?x=0&y=7 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:15] "GET /attack?x=1&y=9 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+ERROR:root:Repeated coordinate has been shot again
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:16] "[35m[1mGET /attack?x=1&y=9 HTTP/1.1[0m" 500 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+DEBUG:root:Player has won the game
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:14:16] "GET /attack?x=2&y=9 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug: * Detected change in 'c:\\Users\\sandy\\source\\repos\\Programming Coursework\\battleships_ai.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:56] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:56] "GET /attack?x=3&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:56] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:56] "GET /attack?x=2&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:57] "GET /attack?x=1&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:57] "GET /attack?x=3&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:58] "GET /attack?x=4&y=3 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:58] "GET /attack?x=3&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:59] "GET /attack?x=3&y=2 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:54:59] "GET /attack?x=3&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:55:00] "GET /attack?x=2&y=5 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:55:01] "GET /attack?x=4&y=4 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:55:01] "GET /attack?x=4&y=6 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player has hit an Ai ship
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai has hit a player ship
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 00:55:01] "GET /attack?x=7&y=7 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-917-870
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Rendering placement template...
+INFO:root:SUCCESS! Placement template has been rendered
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 01:12:45] "GET /placement HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Creating the player board and the player's ships
+INFO:root:Creating the Ai board and the Ai's ships
+INFO:root:SUCCESS! Player board has been created
+INFO:root:SUCCESS! Ai board has been created
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 02:27:58] "GET / HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 02:28:00] "GET /attack?x=1&y=1 HTTP/1.1" 200 -
+DEBUG:root:Retrieving coordinates...
+DEBUG:root:Coordinates received!
+DEBUG:root:Generating Ai coordinates...
+DEBUG:root:Ai coordinates successfuly generated!
+DEBUG:root:Player misses
+DEBUG:root:Coordinates have been added to players hitlog
+DEBUG:root:Ai coordinates have been added to the Ai hitlog
+DEBUG:root:Ai bot misses
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 02:28:01] "GET /attack?x=1&y=2 HTTP/1.1" 200 -
